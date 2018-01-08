@@ -1,7 +1,10 @@
 # 2.-Class-Employee
 
+NOTE TO VIEWER: The version of this code is different from the original exercise due to the specification 
+			          of the profesor but it's still uses what the exercise asks for.
 
   2.     Employee  Class 
+  
          Write a class named  Employee  that has the following member variables:   
          
     •     name. A string that holds the employee’s name. 
@@ -24,12 +27,12 @@ Write appropriate mutator functions that store values in these member variables 
 the values in these member variables. Once you have written the class, write a separate program that creates 
 three  Employee  objects to hold the following data. 
 
-----------------------------------------------------------------------------------------------------------------------
- Name             ID Number        Department        Position 
- Susan Meyers       47899          Accounting      Vice President 
- Mark Jones         39119              IT            Programmer 
- Joy Rogers         81774         Manufacturing      Engineer 
- 
- ---------------------------------------------------------------------------------------------------------------------
- 
+Name  ID Number  Department  Position
+
+Susan Meyers  47899  Accounting  Vice President
+
+Mark Jones  39119  IT  Programmer 
+
+Joy Rogers  81774  Manufacturing  Engineer
+
 The program should store this data in the three objects and then display the data for each employee on the screen.   
